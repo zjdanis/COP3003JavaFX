@@ -23,64 +23,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c606bc1-a291-4f14-be5c-1f22d6264fb7" name="Default Changelist" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GradleProject/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HR.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HR.trace.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/.idea/modules/Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/.idea/modules/Project.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/.idea/modules/Project.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/src/main/java/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project/src/main/java/sample.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/src/main/java/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNightmares/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.idea/modules/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.idea/modules/Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.idea/modules/Project.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.idea/modules/Project.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,24 +122,45 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.web.jar" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MySanity.main" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\zache\.jdks\azul-14.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.media,javafx.graphics,javafx.swing,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -168,8 +170,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599170808527</updated>
-      <workItem from="1599170812426" duration="520000" />
+      <workItem from="1599170812426" duration="1441000" />
+      <workItem from="1599172484203" duration="2286000" />
     </task>
+    <task id="LOCAL-00001" summary="Committed">
+      <created>1599171362414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599171362414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +196,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -192,13 +204,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="Committed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599171322402">
+    <state x="-1368" y="161" key="#Plugins" timestamp="1599172496002">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599171322402" />
-    <state x="-1920" y="165" key="SettingsEditor" timestamp="1599170959429">
+    <state x="-1368" y="161" key="#Plugins/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172496002" />
+    <state x="-1480" y="94" key="#Project_Structure" timestamp="1599171741088">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1920" y="165" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599170959429" />
+    <state x="-1480" y="94" key="#Project_Structure/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599171741088" />
+    <state x="-1506" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599172114151">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172114151" />
+    <state x="387" y="197" key="FileChooserDialogImpl" timestamp="1599173753059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1376" y="281" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172719165" />
+    <state x="387" y="197" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599173753059" />
+    <state width="637" height="169" key="GridCell.Tab.0.bottom" timestamp="1599174994209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599173016876" />
+    <state width="637" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599174994209" />
+    <state width="637" height="169" key="GridCell.Tab.0.center" timestamp="1599174994209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599173016875" />
+    <state width="637" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599174994209" />
+    <state width="637" height="169" key="GridCell.Tab.0.left" timestamp="1599174994208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599173016875" />
+    <state width="637" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599174994208" />
+    <state width="637" height="169" key="GridCell.Tab.0.right" timestamp="1599174994209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599173016875" />
+    <state width="637" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599174994209" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599172273290">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172273290" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599172273289">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172273289" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599172273289">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172273289" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599172273290">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172273290" />
+    <state x="-1602" y="114" key="SettingsEditor" timestamp="1599172738342">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1602" y="114" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599172738342" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599171368546">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1599171368546" />
   </component>
 </project>
